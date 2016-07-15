@@ -4,7 +4,11 @@
     "repositoryName": "jivank.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "jivan kulkarni"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
